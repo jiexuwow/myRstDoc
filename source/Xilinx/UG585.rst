@@ -1,4 +1,3 @@
-z
 
 
 UG585
@@ -26,6 +25,4 @@ ZYNQ-700系列基于Xilinx SOC体系结构(architecture),这些产品将
 Zynq-7000 系列提供了可靠(flexibility)和可拓展的FPGA
 
 
-
-dasdasd
->>>>>>>
+ 
