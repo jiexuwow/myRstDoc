@@ -1,0 +1,31 @@
+z
+
+
+UG585
+============
+.. contents:: Table of Contents
+   :depth: 2
+   :local:
+ 
+
+UG585 Xilinx 7000系列的技术参考手册,本文档对其进行翻译以及学习
+
+
+第一章节 1: 介绍
+----------------------------------------
+
+1.1 总览
+>>>>>>>>
+
+ZYNQ-700系列基于Xilinx SOC体系结构(architecture),这些产品将
+功能丰富的单核或多核ARM Cortex-A9 MP core程序处理系统(PS)
+和xilinx可编程逻辑系统(PL)集成(integrate)到一个设备上。基于最先进的、高速的、
+低功耗的、28nm的HKMG制作工艺。ARM Cortex-A9 多核处理器是拥有片上存储的PS的核心
+有丰富的存储接口和IO外设(preipherals)。
+
+Zynq-7000 系列提供了可靠(flexibility)和可拓展的FPGA
+
+
+
+dasdasd
+>>>>>>>
